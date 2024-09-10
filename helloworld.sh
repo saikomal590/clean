@@ -1,1 +1,4 @@
-hi this is komal
+#!/bin/bash/
+
+echo "i am learning devops"
+
